@@ -1,0 +1,2 @@
+# rtEdytor
+Edytor czasu rzeczywistego.
